@@ -1,0 +1,28 @@
+.input-user{
+    width: 400px;
+    height: 80pxpx;
+    
+}
+.titulo{
+    background-color: #64CCC5;
+}
+.imagen{
+    border-radius: 50%;
+}
+.fondo{
+    background-color: #008170;
+}
+.resultado{
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+small{
+    color: white;
+}
+.boton{
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+    font-size: 40px;
+    
+}
